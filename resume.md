@@ -13,6 +13,7 @@
 * Research new features, evaluate them in backtesting, run A/B tests, and try to beat the incumbent algorithm
 * Increased revenue by $8 million per year by quantifying style
 * Develop end-to-end data science pipelines in R and Python using AWS, Docker, and Jenkins
+* Use causal inference to analyze effects of complex experiments
 * Improve software engineering skills by using logging, click, handling errors, and writing tests
 
 
@@ -42,7 +43,7 @@ June 2012 - December 2014
 ## Programming Skills
 * Advanced R and Python
 * Intermediate SQL
-* Proficient with git, docker, and bash
+* Proficient with git, docker, Vim, and bash
 * Basic Spark and Hive
 * Can write unit tests
 * Some experience with ML packages Caffe, Vowpal Wabbit
