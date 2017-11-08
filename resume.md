@@ -9,11 +9,14 @@
 
 ## Experience
 #### Stitch Fix, San Francisco, CA
+July 2015 - Present
+
 * Develop personalized recommender systems for women’s clothing
-* Research new features, evaluate them in backtesting, run A/B tests, and try to beat the incumbent algorithm
+* Use contextual bandits to optimize where and when to show different recommendations
+* Research new features, evaluate them offline, run A/B tests, and try to beat the incumbent algorithm
 * Increased revenue by $8 million per year by quantifying style
 * Develop end-to-end data science pipelines in R and Python using AWS, Docker, and Jenkins
-* Use causal inference to analyze effects of complex experiments
+* Use causal inference to determine effects of complex experiments
 * Improve software engineering skills by using logging, click, handling errors, and writing tests
 
 
@@ -37,20 +40,22 @@ June 2012 - December 2014
 
 ## Education
 * M.S. Statistics, **Stanford University**, 2015
-* B.A. Mathematics, Clark University
+* B.A. Mathematics, Clark University, Worcester, MA
 * Fellow of the Casualty Actuarial Society
 
 ## Programming Skills
 * Advanced R and Python
 * Intermediate SQL
-* Proficient with git, docker, Vim, and bash
+* Proficient with git, docker, aws, vim, and bash
 * Basic Spark and Hive
-* Can write unit tests
-* Some experience with ML packages Caffe, Vowpal Wabbit
+* Unit tests
 
 ## Projects
-* [Diamond](https://github.com/stitchfix/diamond), a very fast iterative solver for mixed-effects models in Python (forthcoming)
+* [Diamond](https://github.com/stitchfix/diamond), a very fast iterative solver for mixed-effects models in Python
 * Analysis of BART Fares
 	* [github](https://github.com/hacktuarial/BART) 
 	* [heroku](https://bart-fares.herokuapp.com/)
 * Wrote parallel implementation of [mbest package](https://github.com/patperry/r-mbest) on CRAN
+
+## Talks
+* [PyData NYC](https://pydata.org/nyc2017/schedule/presentation/63/), November 2017
