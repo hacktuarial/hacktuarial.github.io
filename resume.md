@@ -12,12 +12,12 @@
 July 2015 - Present
 
 * Develop personalized recommender systems for women’s clothing
-* Use contextual bandits to optimize where and when to show different recommendations
+* Use Bayesian contextual bandits to optimize where and when to show different recommendations
 * Research new features, evaluate them offline, run A/B tests, and try to beat the incumbent algorithm
 * Increased revenue by $8 million per year by quantifying style
-* Develop end-to-end data science pipelines in R and Python using AWS, Docker, and Jenkins
+* Develop end-to-end data science pipelines in SQL, R and Python using AWS, Docker, and Jenkins
 * Use causal inference to determine effects of complex experiments
-* Improve software engineering skills by using logging, click, handling errors, and writing tests
+* Improve software engineering skills by using logging, click, handling errors, managing deployments, and writing tests
 
 
 #### Coffee Meets Bagel, San Francisco, CA
@@ -48,7 +48,6 @@ June 2012 - December 2014
 * Intermediate SQL
 * Proficient with git, docker, aws, vim, and bash
 * Basic Spark and Hive
-* Unit tests
 
 ## Projects
 * [Diamond](https://github.com/stitchfix/diamond), a very fast iterative solver for mixed-effects models in Python
@@ -58,4 +57,6 @@ June 2012 - December 2014
 * Wrote parallel implementation of [mbest package](https://github.com/patperry/r-mbest) on CRAN
 
 ## Talks
-* [PyData NYC](https://pydata.org/nyc2017/schedule/presentation/63/), November 2017
+* "Diamond: Mixed Effects Models in Python", PyData NYC, November 2017
+	* [video](https://www.youtube.com/watch?v=jrprjZEX9gU)
+	* [slides](https://www.slideshare.net/PyData/diamond-mixed-effects-models-in-python)
