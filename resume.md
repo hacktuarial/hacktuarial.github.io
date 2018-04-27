@@ -11,14 +11,13 @@
 #### Stitch Fix, San Francisco, CA
 July 2015 - Present
 
-* Develop personalized recommender systems for women’s clothing
+* Develop personalized recommender systems for women’s clothing and implement them in production
 * Improve resiliency and stability of production machine learning systems with Python scikit-learn pipelines
 * Use contextual bandits to optimize where and when to show different recommendations
 * Research new features/models, evaluate them offline, and design and run A/B tests to increase revenue and client satisfaction
 * Increased revenue by $8 million per year by quantifying style
 * Develop end-to-end data science pipelines in Spark, Python and R using AWS, Docker, and Jenkins
-* Use causal inference to determine effects of complex experiments
-* Improve software engineering skills by using logging, command line interfaces, handling errors, and writing tests
+* Improve software engineering skills by using logging, click, handling errors, managing deployments, and writing tests
 
 
 #### Coffee Meets Bagel, San Francisco, CA
@@ -45,7 +44,8 @@ June 2012 - December 2014
 * Fellow of the Casualty Actuarial Society
 
 ## Programming Skills
-* Advanced R and Python
+* Advanced R (tidyverse, data.table, ggplot2)
+* Advanced Python (numpy, scipy, pandas, scikit-learn)
 * Intermediate SQL
 * Proficient with git, docker, aws, vim, and bash
 * Basic Spark and Hive
@@ -58,4 +58,6 @@ June 2012 - December 2014
 * Wrote parallel implementation of [mbest package](https://github.com/patperry/r-mbest) on CRAN
 
 ## Talks
-* [PyData NYC](https://pydata.org/nyc2017/schedule/presentation/63/), November 2017
+* "Diamond: Mixed Effects Models in Python", PyData NYC, November 2017
+	* [video](https://www.youtube.com/watch?v=jrprjZEX9gU)
+	* [slides](https://www.slideshare.net/PyData/diamond-mixed-effects-models-in-python)
