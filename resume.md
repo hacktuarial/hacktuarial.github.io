@@ -12,18 +12,19 @@
 July 2015 - Present
 
 * Develop personalized recommender systems for women’s clothing
+* Improve resiliency and stability of production machine learning systems with Python scikit-learn pipelines
 * Use contextual bandits to optimize where and when to show different recommendations
-* Research new features, evaluate them offline, run A/B tests, and try to beat the incumbent algorithm
+* Research new features/models, evaluate them offline, and design and run A/B tests to increase revenue and client satisfaction
 * Increased revenue by $8 million per year by quantifying style
-* Develop end-to-end data science pipelines in R and Python using AWS, Docker, and Jenkins
+* Develop end-to-end data science pipelines in Spark, Python and R using AWS, Docker, and Jenkins
 * Use causal inference to determine effects of complex experiments
-* Improve software engineering skills by using logging, click, handling errors, and writing tests
+* Improve software engineering skills by using logging, command line interfaces, handling errors, and writing tests
 
 
 #### Coffee Meets Bagel, San Francisco, CA
 January 2015 - June 2015
 
-* Create new matching algorithm using Python’s scikit-learn
+* Create new matching algorithm using Python scikit-learn
 * Result in 10% higher LIKE rates for men and women
 * Come up with new and interesting ideas about dating, test them using data, and write engaging blog posts about them. Examples:
 	* [It's raining men](https://coffeemeetsbagel.com/blog/index.php/dating-statistics/raining-men/)
@@ -48,7 +49,6 @@ June 2012 - December 2014
 * Intermediate SQL
 * Proficient with git, docker, aws, vim, and bash
 * Basic Spark and Hive
-* Unit tests
 
 ## Projects
 * [Diamond](https://github.com/stitchfix/diamond), a very fast iterative solver for mixed-effects models in Python
