@@ -50,12 +50,13 @@ June 2012 - December 2014
 * Proficient with git, docker, aws, vim, and bash
 * Basic Spark and Hive
 
-## Projects
-* [Diamond](https://github.com/stitchfix/diamond), a very fast iterative solver for mixed-effects models in Python
+## Projects and open-source contributions
+* [Diamond](https://github.com/stitchfix/diamond), a very fast iterative solver for mixed-effects models in Python.
+* Contributor to [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas), a Python package for using sckit-learn with pandas DataFrames
 * Analysis of BART Fares
 	* [github](https://github.com/hacktuarial/BART) 
 	* [heroku](https://bart-fares.herokuapp.com/)
-* Wrote parallel implementation of [mbest package](https://github.com/patperry/r-mbest) on CRAN
+* Wrote parallel implementation of R [mbest package](https://github.com/patperry/r-mbest) on CRAN
 
 ## Talks
 * "Diamond: Mixed Effects Models in Python", PyData NYC, November 2017
