@@ -1,5 +1,5 @@
 # Timothy D. Sweetser
-#### Full-stack data scientist in San Francisco
+#### Full-stack data scientist in New York
 
 * [LinkedIn](https://www.linkedin.com/in/timothysweetser/)
 * [Github](https://github.com/hacktuarial)
@@ -8,8 +8,14 @@
 
 
 ## Experience
+#### Rent the Runway, New York, NY
+August 2018 - Present
+
+* Personalization
+
+
 #### Stitch Fix, San Francisco, CA
-July 2015 - Present
+July 2015 - June 2018
 
 * Develop personalized recommender systems for women’s clothing and implement them in production
 * Improve resiliency and stability of production machine learning systems with Python scikit-learn pipelines
