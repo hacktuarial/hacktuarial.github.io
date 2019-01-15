@@ -11,7 +11,9 @@
 #### Rent the Runway, New York, NY
 August 2018 - Present
 
-* Personalization
+* Develop new algorithms to drive user engagement, e.g. Trending in Your Area
+* Improve user fit using machine learning
+* Develop a swap recommender system using matrix factorization in PyTorch
 
 
 #### Stitch Fix, San Francisco, CA
@@ -54,7 +56,7 @@ June 2012 - December 2014
 * Advanced Python (numpy, scipy, pandas, scikit-learn)
 * Intermediate SQL
 * Proficient with git, docker, aws, vim, and bash
-* Basic Spark and Hive
+* Basic Spark, Hive and Snowflake
 
 ## Projects and open-source contributions
 * [Diamond](https://github.com/stitchfix/diamond), a very fast iterative solver for mixed-effects models in Python.
