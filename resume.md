@@ -1,5 +1,5 @@
 # Timothy D. Sweetser
-#### Full-stack data scientist in New York
+#### Full-stack data scientist in New York City
 
 * [LinkedIn](https://www.linkedin.com/in/timothysweetser/)
 * [Github](https://github.com/hacktuarial)
@@ -11,21 +11,21 @@
 #### Rent the Runway, New York, NY
 August 2018 - Present
 
-* Develop new algorithms to drive user engagement, e.g. Trending in Your Area
-* Improve user fit using machine learning
-* Develop a swap recommender system using matrix factorization in PyTorch
+* Develop fit algorithm to boost rental wear rate by +0.01
+* Increase user engagement by improving personalized recommendations
+* Rewrite production recommendation service using an asynchronous Python framework
+* Port batch model training from laptops to Jenkins
 
 
 #### Stitch Fix, San Francisco, CA
 July 2015 - June 2018
 
 * Develop personalized recommender systems for women’s clothing and implement them in production
-* Improve resiliency and stability of production machine learning systems with Python scikit-learn pipelines
+* Increased revenue by $8+ million per year by quantifying style
 * Use contextual bandits to optimize where and when to show different recommendations
 * Research new features/models, evaluate them offline, and design and run A/B tests to increase revenue and client satisfaction
-* Increased revenue by $8 million per year by quantifying style
 * Develop end-to-end data science pipelines in Spark, Python and R using AWS, Docker, and Jenkins
-* Improve software engineering skills by using logging, click, handling errors, managing deployments, and writing tests
+* Leverage software engineering best practices by using logging, click, handling errors, managing deployments, and writing tests
 
 
 #### Coffee Meets Bagel, San Francisco, CA
@@ -53,16 +53,16 @@ June 2012 - December 2014
 
 ## Programming Skills
 * Advanced R (tidyverse, data.table, ggplot2)
-* Advanced Python (numpy, scipy, pandas, scikit-learn)
+* Advanced Python (numpy, scipy, pandas, scikit-learn, pytest, asyncio)
 * Intermediate SQL
-* Proficient with git, docker, aws, vim, and bash
-* Basic Spark, Hive and Snowflake
+* Proficient with git, docker, AWS, and bash
+* Basic PySpark, Hive and Snowflake
 
 ## Projects and open-source contributions
 * [Diamond](https://github.com/stitchfix/diamond), a very fast iterative solver for mixed-effects models in Python.
 * Contributor to [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas), a Python package for using sckit-learn with pandas DataFrames
 * Analysis of BART Fares
-	* [github](https://github.com/hacktuarial/BART) 
+	* [github](https://github.com/hacktuarial/BART)
 	* [heroku](https://bart-fares.herokuapp.com/)
 * Wrote parallel implementation of R [mbest package](https://github.com/patperry/r-mbest) on CRAN
 
