@@ -1,5 +1,5 @@
 # Timothy D. Sweetser
-#### Full-stack data scientist in New York City
+#### Machine Learning Engineer in New York City
 
 * [LinkedIn](https://www.linkedin.com/in/timothysweetser/)
 * [Github](https://github.com/hacktuarial)
@@ -8,8 +8,16 @@
 
 
 ## Experience
+#### FINDMINE, New York, NY
+May 2019 - Present
+
+* Automate color extraction for new products using `sckit-image`
+* Use deep learning to identify similar styles based on images
+* Write a Flask App to collect quantitative fashion ratings from subject matter experts
+* Set standards for methodology and analysis in A/B testing
+
 #### Rent the Runway, New York, NY
-August 2018 - Present
+August 2018 - April 2019
 
 * Develop fit algorithm to boost rental wear rate by +0.01
 * Increase user engagement by improving personalized recommendations
@@ -31,39 +39,28 @@ July 2015 - June 2018
 #### Coffee Meets Bagel, San Francisco, CA
 January 2015 - June 2015
 
-* Create new matching algorithm using Python scikit-learn
+* Create new matching algorithm using Python and `scikit-learn`
 * Result in 10% higher LIKE rates for men and women
 * Come up with new and interesting ideas about dating, test them using data, and write engaging blog posts about them. Examples:
 	* [It's raining men](https://coffeemeetsbagel.com/blog/index.php/dating-statistics/raining-men/)
 	* [How tall are you _really_?](https://coffeemeetsbagel.com/blog/index.php/dating-statistics/how-tall-are-you-really/)
 
-#### CSAA Insurance Group, Walnut Creek, CA
-June 2012 - December 2014
-
-* Use machine learning to improve customer satisfaction with claims for a major consumer insurance company
-* Merge multiple datasets, train supervised learning models, develop data pipeline, and drive implementation by over 1,000 employees
-* Result in 6-point increase in Net Promoter Score
-* Use R for ad hoc analysis, such as, how does filing a claim impact customer retention?
-
 
 ## Education
 * M.S. Statistics, **Stanford University**, 2015
 * B.A. Mathematics, Clark University, Worcester, MA
-* Fellow of the Casualty Actuarial Society
 
 ## Programming Skills
+* Advanced Python (numpy, scipy, pandas, scikit-learn, pytest, asyncio, celery, tensorflow)
 * Advanced R (tidyverse, data.table, ggplot2)
-* Advanced Python (numpy, scipy, pandas, scikit-learn, pytest, asyncio)
 * Intermediate SQL
-* Proficient with git, docker, AWS, and bash
+* Proficient with git, docker, AWS, GCP, and bash
 * Basic PySpark, Hive and Snowflake
 
 ## Projects and open-source contributions
 * [Diamond](https://github.com/stitchfix/diamond), a very fast iterative solver for mixed-effects models in Python.
 * Contributor to [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas), a Python package for using sckit-learn with pandas DataFrames
-* Analysis of BART Fares
-	* [github](https://github.com/hacktuarial/BART)
-	* [heroku](https://bart-fares.herokuapp.com/)
+* Fix reproducibility bug for [scikit-image](https://github.com/scikit-image/scikit-image/pull/4251)
 * Wrote parallel implementation of R [mbest package](https://github.com/patperry/r-mbest) on CRAN
 
 ## Talks
