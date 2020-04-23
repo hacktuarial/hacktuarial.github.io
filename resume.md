@@ -8,11 +8,12 @@
 
 
 ## Experience
-#### FINDMINE, New York, NY
+#### FindMine, New York, NY
 May 2019 - Present
 
-* Automate color extraction for new products using `sckit-image`
+* Automate color extraction for new products using `scikit-image`
 * Use deep learning to identify similar styles based on images
+* Use K-Medoids, Earth Movers Distance, and Pointwise Mutual Information to make outfit recommendations
 * Write a Flask App to collect quantitative fashion ratings from subject matter experts
 * Set standards for methodology and analysis in A/B testing
 
@@ -21,7 +22,7 @@ August 2018 - April 2019
 
 * Develop fit algorithm to boost rental wear rate by +0.01
 * Increase user engagement by improving personalized recommendations
-* Rewrite production recommendation service using an asynchronous Python framework
+* Rewrite production recommendation service using an asynchronous Python web framework
 * Port batch model training from laptops to Jenkins
 
 
@@ -52,8 +53,9 @@ January 2015 - June 2015
 
 ## Programming Skills
 * Advanced Python (numpy, scipy, pandas, scikit-learn, pytest, asyncio, celery, tensorflow)
-* Advanced R (tidyverse, data.table, ggplot2)
+* Intermediate R (tidyverse, data.table, ggplot2)
 * Intermediate SQL
+* Basic [scala](http://github.com/hacktuarial/sudoku)
 * Proficient with git, docker, AWS, GCP, and bash
 * Basic PySpark, Hive and Snowflake
 
@@ -61,7 +63,6 @@ January 2015 - June 2015
 * [Diamond](https://github.com/stitchfix/diamond), a very fast iterative solver for mixed-effects models in Python.
 * Contributor to [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas), a Python package for using sckit-learn with pandas DataFrames
 * Fix reproducibility bug for [scikit-image](https://github.com/scikit-image/scikit-image/pull/4251)
-* Wrote parallel implementation of R [mbest package](https://github.com/patperry/r-mbest) on CRAN
 
 ## Talks
 * "Diamond: Mixed Effects Models in Python", PyData NYC, November 2017
