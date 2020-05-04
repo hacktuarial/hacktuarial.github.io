@@ -11,7 +11,7 @@
 #### FindMine, New York, NY
 May 2019 - Present
 
-* Automate color extraction for new products using `scikit-image`
+* Increase click through rate using $\epsilon$-greedy bandit
 * Use deep learning to identify similar styles based on images
 * Use K-Medoids, Earth Movers Distance, and Pointwise Mutual Information to make outfit recommendations
 * Write a Flask App to collect quantitative fashion ratings from subject matter experts
