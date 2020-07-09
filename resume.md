@@ -11,7 +11,7 @@
 #### FindMine, New York, NY
 May 2019 - Present
 
-* Increase click through rate using $\epsilon$-greedy bandit
+* Increase click through rate by 3% using $\epsilon$-greedy bandit
 * Use deep learning to identify similar styles based on images
 * Use K-Medoids, Earth Movers Distance, and Pointwise Mutual Information to make outfit recommendations
 * Write a Flask App to collect quantitative fashion ratings from subject matter experts
@@ -52,12 +52,12 @@ January 2015 - June 2015
 * B.A. Mathematics, Clark University, Worcester, MA
 
 ## Programming Skills
-* Advanced Python (numpy, scipy, pandas, scikit-learn, pytest, asyncio, celery, tensorflow)
+* Advanced Python (numpy, scipy, pandas, scikit-learn, pytest, asyncio, celery, tensorflow, keras)
 * Intermediate R (tidyverse, data.table, ggplot2)
 * Intermediate SQL
 * Basic [scala](http://github.com/hacktuarial/sudoku)
 * Proficient with git, docker, AWS, GCP, and bash
-* Basic PySpark, Hive and Snowflake
+* Basic PySpark, Hive, BigQuery, and Snowflake
 
 ## Projects and open-source contributions
 * [Diamond](https://github.com/stitchfix/diamond), a very fast iterative solver for mixed-effects models in Python.
