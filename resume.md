@@ -14,7 +14,7 @@ May 2019 - Present
 * Increase click through rate by 3% using $\epsilon$-greedy bandit
 * Use deep learning to identify similar styles based on images
 * Use K-Medoids, Earth Movers Distance, and Pointwise Mutual Information to make outfit recommendations
-* Write a Flask App to collect quantitative fashion ratings from subject matter experts
+* Write a Flask app to collect quantitative fashion ratings from subject matter experts
 * Set standards for methodology and analysis in A/B testing
 
 #### Rent the Runway, New York, NY
@@ -23,7 +23,7 @@ August 2018 - April 2019
 * Develop fit algorithm to boost rental wear rate by +0.01
 * Increase user engagement by improving personalized recommendations
 * Rewrite production recommendation service using an asynchronous Python web framework
-* Port batch model training from laptops to Jenkins
+* Migrate batch model training from laptops to Jenkins
 
 
 #### Stitch Fix, San Francisco, CA
