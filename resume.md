@@ -9,15 +9,16 @@
 
 ## Experience
 #### FindMine, New York, NY
-May 2019 - Present
+Machine Learning Engineer, May 2019 - Present
 
-* Increase click through rate by 3% using $\epsilon$-greedy bandit
+* Increase click through rate by 3% using multi-armed bandit
 * Use deep learning to identify similar products based on images
-* Write a Flask app to collect quantitative fashion ratings from subject matter experts
 * Set standards for methodology and analysis in A/B testing
+* Write a Flask app to collect quantitative fashion ratings from subject matter experts
+
 
 #### Rent the Runway, New York, NY
-August 2018 - April 2019
+Data Scientist, August 2018 - April 2019
 
 * Develop fit algorithm to boost rental wear rate by +0.01
 * Increase user engagement by improving personalized recommendations
@@ -26,17 +27,16 @@ August 2018 - April 2019
 
 
 #### Stitch Fix, San Francisco, CA
-July 2015 - June 2018
+Data Scientist, July 2015 - June 2018
 
 * Develop personalized recommender systems for women’s clothing and implement them in production
 * Increased revenue by $8+ million per year by quantifying style
 * Use contextual bandits to optimize where and when to show different recommendations
-* Research new features/models, evaluate them offline, and design and run A/B tests to increase revenue and client satisfaction
 * Develop end-to-end data science pipelines in Spark, Python and R using AWS, Docker, and Jenkins
 
 
 #### Coffee Meets Bagel, San Francisco, CA
-January 2015 - June 2015
+Intern, January 2015 - June 2015
 
 * Create new matching algorithm using Python and `scikit-learn`
 * Result in 10% higher LIKE rates for men and women
