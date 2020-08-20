@@ -12,8 +12,7 @@
 May 2019 - Present
 
 * Increase click through rate by 3% using $\epsilon$-greedy bandit
-* Use deep learning to identify similar styles based on images
-* Use K-Medoids, Earth Movers Distance, and Pointwise Mutual Information to make outfit recommendations
+* Use deep learning to identify similar products based on images
 * Write a Flask app to collect quantitative fashion ratings from subject matter experts
 * Set standards for methodology and analysis in A/B testing
 
@@ -22,7 +21,7 @@ August 2018 - April 2019
 
 * Develop fit algorithm to boost rental wear rate by +0.01
 * Increase user engagement by improving personalized recommendations
-* Rewrite production recommendation service using an asynchronous Python web framework
+* Rewrite production recommendation service using `asyncio`, an asynchronous Python web framework
 * Migrate batch model training from laptops to Jenkins
 
 
@@ -34,7 +33,6 @@ July 2015 - June 2018
 * Use contextual bandits to optimize where and when to show different recommendations
 * Research new features/models, evaluate them offline, and design and run A/B tests to increase revenue and client satisfaction
 * Develop end-to-end data science pipelines in Spark, Python and R using AWS, Docker, and Jenkins
-* Leverage software engineering best practices by using logging, click, handling errors, managing deployments, and writing tests
 
 
 #### Coffee Meets Bagel, San Francisco, CA
