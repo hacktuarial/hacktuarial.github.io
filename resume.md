@@ -14,6 +14,7 @@ Machine Learning Engineer, May 2019 - Present
 * Increase click through rate by 3% using multi-armed bandit
 * Use deep learning to identify similar products based on images
 * Set standards for methodology and analysis in A/B testing
+* Save $60K/year in cloud computing costs by shifting computation from database to Python layer
 * Write a Flask app to collect quantitative fashion ratings from subject matter experts
 
 
