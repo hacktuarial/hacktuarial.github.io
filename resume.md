@@ -1,4 +1,5 @@
 # Timothy D. Sweetser
+![selfie](images/selfie.jpg)
 #### Machine Learning Engineer in New York City
 
 * [LinkedIn](https://www.linkedin.com/in/timothysweetser/)
@@ -8,17 +9,23 @@
 
 
 ## Experience
+
+#### HBO Max, New York, NY
+Senior Machine Learning Engineer. November 2020 - Present
+
+* Recommender systems and personalization for HBO Max
+
 #### FindMine, New York, NY
-May 2019 - Present
+Machine Learning Engineer. May 2019 - November 2020
 
 * Increase click through rate by 3% using $\epsilon$-greedy bandit
 * Use deep learning to identify similar styles based on images
-* Use K-Medoids, Earth Movers Distance, and Pointwise Mutual Information to make outfit recommendations
+* Reduce costs by $50,000/year by automatically replacing out of stock items in expert-curated fashion outfits
 * Write a Flask app to collect quantitative fashion ratings from subject matter experts
 * Set standards for methodology and analysis in A/B testing
 
 #### Rent the Runway, New York, NY
-August 2018 - April 2019
+Data Scientist. August 2018 - April 2019
 
 * Develop fit algorithm to boost rental wear rate by +0.01
 * Increase user engagement by improving personalized recommendations
@@ -27,7 +34,7 @@ August 2018 - April 2019
 
 
 #### Stitch Fix, San Francisco, CA
-July 2015 - June 2018
+Data Scientist. July 2015 - June 2018
 
 * Develop personalized recommender systems for women’s clothing and implement them in production
 * Increased revenue by $8+ million per year by quantifying style
@@ -55,7 +62,7 @@ January 2015 - June 2015
 * Advanced Python (numpy, scipy, pandas, scikit-learn, pytest, asyncio, celery, tensorflow, keras)
 * Intermediate R (tidyverse, data.table, ggplot2)
 * Intermediate SQL
-* Basic [scala](http://github.com/hacktuarial/sudoku)
+* Basic [scala](http://github.com/hacktuarial/sudoku) and Java
 * Proficient with git, docker, AWS, GCP, and bash
 * Basic PySpark, Hive, BigQuery, and Snowflake
 
