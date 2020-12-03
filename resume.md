@@ -20,16 +20,18 @@ Machine Learning Engineer. May 2019 - November 2020
 
 * Increase click through rate by 3% using $\epsilon$-greedy bandit
 * Use deep learning to identify similar styles based on images
-* Reduce costs by $50,000/year by automatically replacing out of stock items in expert-curated fashion outfits
+* Reduce costs by $50K/year by automatically replacing out of stock items in expert-curated fashion outfits
+* Save $60K/year in cloud computing costs by shifting computation from database to Python layer
 * Write a Flask app to collect quantitative fashion ratings from subject matter experts
-* Set standards for methodology and analysis in A/B testing
+
 
 #### Rent the Runway, New York, NY
-Data Scientist. August 2018 - April 2019
+
+Data Scientist, August 2018 - April 2019
 
 * Develop fit algorithm to boost rental wear rate by +0.01
 * Increase user engagement by improving personalized recommendations
-* Rewrite production recommendation service using an asynchronous Python web framework
+* Rewrite production recommendation service using `asyncio`, an asynchronous Python web framework
 * Migrate batch model training from laptops to Jenkins
 
 
@@ -39,13 +41,11 @@ Data Scientist. July 2015 - June 2018
 * Develop personalized recommender systems for women’s clothing and implement them in production
 * Increased revenue by $8+ million per year by quantifying style
 * Use contextual bandits to optimize where and when to show different recommendations
-* Research new features/models, evaluate them offline, and design and run A/B tests to increase revenue and client satisfaction
 * Develop end-to-end data science pipelines in Spark, Python and R using AWS, Docker, and Jenkins
-* Leverage software engineering best practices by using logging, click, handling errors, managing deployments, and writing tests
 
 
 #### Coffee Meets Bagel, San Francisco, CA
-January 2015 - June 2015
+Intern, January 2015 - June 2015
 
 * Create new matching algorithm using Python and `scikit-learn`
 * Result in 10% higher LIKE rates for men and women
