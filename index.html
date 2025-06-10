@@ -10,32 +10,96 @@
 
 <style>
 body {
-  font-family: Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6;
-  padding: 30px;
-  background-color: #f2f2f2;
-  color: #333;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 30px;
+  background-color: #ffffff;
+  color: #2c3e50;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.header {
+  text-align: center;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 h1 {
-  font-size: 36px;
-  color: #333;
+  font-size: 42px;
+  color: #2c3e50;
+  margin: 0 0 10px 0;
+  font-weight: 700;
+}
+
+.subtitle {
+  font-size: 18px;
+  color: #7f8c8d;
+  margin: 10px 0 20px 0;
+  font-weight: 400;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.contact-info a {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.contact-info a:hover {
+  color: #2980b9;
 }
 
 h2 {
   font-size: 28px;
-  color: #333;
+  color: #2c3e50;
+  border-bottom: 2px solid #ecf0f1;
+  padding-bottom: 10px;
+  margin-top: 40px;
+  margin-bottom: 25px;
+  font-weight: 600;
 }
 
 h3 {
   font-size: 22px;
-  color: #333;
+  color: #2c3e50;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.job-title {
+  font-size: 20px;
+  color: #2c3e50;
+  margin: 25px 0 5px 0;
+  font-weight: 600;
+}
+
+.job-details {
+  color: #7f8c8d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+
+.job-section {
+  margin-bottom: 30px;
 }
 
 h4 {
   font-size: 18px;
-  color: #333;
+  color: #2c3e50;
+  font-weight: 600;
 }
 
 h5 {
@@ -49,21 +113,36 @@ h6 {
 }
 
 a {
-  color: #007bff;
+  color: #3498db;
   text-decoration: none;
+  transition: color 0.3s ease;
 }
 
 a:hover {
+  color: #2980b9;
   text-decoration: underline;
 }
 
 ul, ol {
   margin: 15px 0;
-  padding-left: 30px;
+  padding-left: 25px;
 }
 
 li {
-  margin-bottom: 5px;
+  margin-bottom: 8px;
+  line-height: 1.7;
+}
+
+.achievements li {
+  position: relative;
+  padding-left: 10px;
+}
+
+.achievements li:before {
+  content: '▸';
+  color: #3498db;
+  position: absolute;
+  left: -15px;
 }
 
 p {
@@ -115,9 +194,39 @@ table tr:nth-child(even) {
   background-color: #f9f9f9;
 }
 
+.profile-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #3498db;
+  margin: 0 auto 20px;
+  display: block;
+}
+
 img {
   max-width: 100%;
   height: auto;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 20px 15px;
+  }
+  
+  .contact-info {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  h1 {
+    font-size: 32px;
+  }
+  
+  .profile-photo {
+    width: 100px;
+    height: 100px;
+  }
 }
 
 
@@ -174,27 +283,27 @@ img {
 <li>Write a Flask app to collect quantitative fashion ratings from subject matter experts</li>
 </ul>
 
-<h4 id="toc_5">Rent the Runway, New York, NY</h4>
-
-<p>Data Scientist, August 2018 - April 2019</p>
-
-<ul>
+<div class="job-section">
+<div class="job-title">Rent the Runway, New York, NY</div>
+<div class="job-details">Data Scientist | August 2018 - April 2019</div>
+<ul class="achievements">
 <li>Develop fit algorithm to boost rental wear rate by +0.01</li>
 <li>Increase user engagement by improving personalized recommendations</li>
 <li>Rewrite production recommendation service using <code>asyncio</code>, an asynchronous Python web framework</li>
 <li>Migrate batch model training from laptops to Jenkins</li>
 </ul>
+</div>
 
-<h4 id="toc_6">Stitch Fix, San Francisco, CA</h4>
-
-<p>Data Scientist. July 2015 - June 2018</p>
-
-<ul>
+<div class="job-section">
+<div class="job-title">Stitch Fix, San Francisco, CA</div>
+<div class="job-details">Data Scientist | July 2015 - June 2018</div>
+<ul class="achievements"
 <li>Develop personalized recommender systems for women’s clothing and implement them in production</li>
 <li>Increased revenue by $8+ million per year by quantifying style</li>
 <li>Use contextual bandits to optimize where and when to show different recommendations</li>
 <li>Develop end-to-end data science pipelines in Spark, Python and R using AWS, Docker, and Jenkins</li>
 </ul>
+</div>
 
 <h2 id="toc_8">Publications</h2>
 
