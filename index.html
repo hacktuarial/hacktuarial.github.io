@@ -21,6 +21,40 @@ body {
   box-shadow: 0 0 20px rgba(0,0,0,0.1);
 }
 
+.header {
+  text-align: center;
+  margin-bottom: 32px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #ecf0f1;
+}
+
+.profile-photo {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 20px;
+  border: 3px solid #ecf0f1;
+}
+
+.subtitle {
+  font-size: 18px;
+  color: #7f8c8d;
+  margin: 0 0 14px 0;
+  font-weight: 400;
+}
+
+.contacts {
+  font-size: 15px;
+  margin: 0;
+}
+
+.contacts .sep {
+  color: #bdc3c7;
+  margin: 0 8px;
+}
+
 h1 {
   font-size: 42px;
   color: #2c3e50;
@@ -50,6 +84,14 @@ h4 {
   font-size: 18px;
   color: #2c3e50;
   font-weight: 600;
+  margin: 28px 0 2px 0;
+}
+
+.job-meta {
+  color: #7f8c8d;
+  font-style: italic;
+  font-size: 15px;
+  margin: 0 0 12px 0;
 }
 
 h5 {
@@ -153,17 +195,12 @@ img {
 
 <body>
 
+<div class="header">
+<img src="images/selfie.jpg" alt="Timothy Sweetser" class="profile-photo">
 <h1>Timothy D. Sweetser</h1>
-
-<p><img src="images/selfie.jpg" alt="selfie"></p>
-
-<h4>Machine Learning Engineer in New York City</h4>
-
-<ul>
-<li><a href="https://www.linkedin.com/in/timothysweetser/">LinkedIn</a></li>
-<li><a href="https://github.com/hacktuarial">Github</a></li>
-<li><a href="mailto:tsweetser@gmail.com">tsweetser@gmail.com</a></li>
-</ul>
+<p class="subtitle">Machine Learning Engineer · New York, NY</p>
+<p class="contacts"><a href="https://www.linkedin.com/in/timothysweetser/">LinkedIn</a><span class="sep">·</span><a href="https://github.com/hacktuarial">GitHub</a><span class="sep">·</span><a href="mailto:tsweetser@gmail.com">tsweetser@gmail.com</a></p>
+</div>
 
 <h2>Summary</h2>
 
@@ -171,21 +208,21 @@ img {
 
 <h2>Experience</h2>
 
-<h4>StubHub, New York, NY</h4>
+<h4>Machine Learning Engineer</h4>
 
-<p>Machine Learning Engineer. April 2024 - Present</p>
+<p class="job-meta">StubHub · New York, NY · April 2024 – Present</p>
 
 <ul>
 <li>Recommendations and personalization in Python and C#</li>
-<li>Improve website recommendations through innovations in candidate generation and model architecture, eg <a href="https://recbole.io/docs/user_guide/model/sequential/gru4rec.html">GRU4Rec</a> </li>
-<li> Accelerate model improvement research via a Claude command to evaluate model improvements offline </li>
-<li> Increase conversion by 2% with a KNN-based dynamic event search radius model </li>
-<li> Improve observability of real-time models using Open Telemetry </li>
+<li>Improve website recommendations through innovations in candidate generation and model architecture, eg <a href="https://recbole.io/docs/user_guide/model/sequential/gru4rec.html">GRU4Rec</a></li>
+<li>Accelerate model improvement research via a Claude command to evaluate model improvements offline</li>
+<li>Increase conversion by 2% with a KNN-based dynamic event search radius model</li>
+<li>Improve observability of real-time models using Open Telemetry</li>
 </ul>
 
-<h4>Warner Brothers Discovery, New York, NY</h4>
+<h4>Machine Learning Engineer</h4>
 
-<p>Machine Learning Engineer. November 2020 - March 2024</p>
+<p class="job-meta">Warner Brothers Discovery · New York, NY · November 2020 – March 2024</p>
 
 <ul>
 <li>Responsible for scaling and innovation of recommender systems and personalization for Max and HBO Max</li>
@@ -194,9 +231,9 @@ img {
 <li>Move from offline to online scoring using custom Tensorflow Serving implementation</li>
 </ul>
 
-<h4>FindMine, New York, NY</h4>
+<h4>Machine Learning Engineer</h4>
 
-<p> Machine Learning Engineer. May 2019 - November 2020</p>
+<p class="job-meta">FindMine · New York, NY · May 2019 – November 2020</p>
 
 <ul>
 <li>Increase click through rate by 3% using ε-greedy bandit</li>
@@ -223,7 +260,7 @@ img {
 <h2>Programming Skills</h2>
 
 <ul>
-<li> AI Tools: Claude Code, ChatGPT </li>
+<li>AI Tools: Claude Code, ChatGPT</li>
 <li>Advanced Python (numpy, scipy, pandas, scikit-learn, pytest, tensorflow, keras, pytorch, Airflow, PySpark)</li>
 <li>Advanced SQL</li>
 <li>Basic Golang, C#, and Scala</li>
